@@ -1,0 +1,23 @@
+{
+  "name": "skiano-patches",
+  "version": "1.0.0",
+  "description": "Exploring Pattern patch distribution",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/skiano/patches.git"
+  },
+  "author": "Greg Skiano",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/skiano/patches/issues"
+  },
+  "dependencies": {
+    "js-combinatorics": "^0.5.2",
+    "lodash": "^4.16.4",
+    "skiano.block-ascii": "^1.0.1"
+  }
+}
